@@ -3178,4 +3178,13 @@ uncomment this part if you haven't added this code anywhere else
 	iframe{
 		height: 300px;
 	}
+	.the-heart-wedding-jurnal-footer h5:before {
+		background-position: center;
+	}
+	.the-heart-wedding-jurnal-section.section-padding {
+    padding: 0;
+}
+	.the-heart-footer-content h2 {
+    font-size: 1.7em !important;
+}
 }
