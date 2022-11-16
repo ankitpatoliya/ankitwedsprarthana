@@ -1846,8 +1846,8 @@ h1 {
 .the-heart-attending-form {
 	width: calc(100% - 136px);
 	margin: 0 auto;
-	padding: 30px 15px;
-	background-image: url(../images/attending-form-bg.png);
+	padding: 30px 15px;	
+	background-image: url('../images/attending-form-bg.png');
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: center center;
