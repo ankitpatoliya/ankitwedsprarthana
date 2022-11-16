@@ -3188,3 +3188,9 @@ uncomment this part if you haven't added this code anywhere else
     font-size: 1.7em !important;
 }
 }
+
+@media (max-width: 479px){
+.the-heart-spilt-container {
+    width: 50%;
+}
+}
