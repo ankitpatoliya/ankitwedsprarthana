@@ -3184,8 +3184,3 @@ uncomment this part if you haven't added this code anywhere else
 	}	
 }
 
-@media (max-width: 479px){
-	.the-heart-spilt-container {
-	    width: 50% !important;
-	}
-}
