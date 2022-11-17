@@ -73,6 +73,9 @@ Section Description:    14px/1 'Poppins', sans-serif;
 /*====================================================================== 
 		1. The Heart Typography 
 ====================================================================================*/
+.the-heart-footer-content h2 {
+    color: #f1ecec;
+}
 
 body {
 	font-family: 'Roboto', sans-serif;
