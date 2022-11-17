@@ -3187,10 +3187,10 @@ uncomment this part if you haven't added this code anywhere else
 	iframe{
 		height: 300px;
 	}
-	footer div#jarallax-container-1 img {
-    top: 120px!important;
+footer div#jarallax-container-1 img {
+    top: 160px!important;
     width: 100%!important;
-    object-fit: cover!IMPORTANT;
+    object-fit: contain!IMPORTANT;
 }
 	#jarallax-container-0>img{
 		margin-top: -2px !important;
