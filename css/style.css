@@ -3196,5 +3196,8 @@ uncomment this part if you haven't added this code anywhere else
 		margin-top: -2px !important;
 		top: 0 !important;
 	}	
+	.the-heart-wedding-jurnal-section.section-padding {
+    padding: 35px 0 23px 0!important;
+}
 }
 
