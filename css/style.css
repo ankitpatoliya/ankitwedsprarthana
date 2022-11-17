@@ -76,6 +76,9 @@ Section Description:    14px/1 'Poppins', sans-serif;
 .the-heart-footer-content h2 {
     color: #f1ecec!important;
 }
+.the-heart-footer-content h5 {
+    color: #fff;
+}
 
 body {
 	font-family: 'Roboto', sans-serif;
@@ -3164,6 +3167,9 @@ uncomment this part if you haven't added this code anywhere else
 		height: 100%;
 }
 @media (max-width: 768px){
+	.the-heart-wedding-jurnal-footer h5:before {
+		    background-position: center;
+	}
 	.the-heart-intruduction-content-txt{
 		height: 150px !important;
 	}
